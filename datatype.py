@@ -35,3 +35,6 @@ print(x)
 range(0, 6)
 print(type(x))
 <class 'range'>
+x=True
+print(type(x))
+<class 'bool'>
