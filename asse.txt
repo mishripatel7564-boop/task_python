@@ -1,0 +1,67 @@
+Python 3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+Python 3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+p=1000
+r=5
+t=2
+si=(p*r*t)/100
+print("simple intrest=",si)
+simple intrest= 100.0
+a=10
+b=20
+print("maximum=",max(a,b))
+maximum= 20
+for i in range (1,6):
+    print(i)
+
+    
+1
+2
+3
+4
+5
+name
+Traceback (most recent call last):
+  File "<pyshell#11>", line 1, in <module>
+    name
+NameError: name 'name' is not defined
+... name="python"
+... print("length=",len(name))
+... length= 6
+... print("Welcome to Python programming")
+SyntaxError: invalid decimal literal
+>>> print("welcome to python programming")
+welcome to python programming
+>>> text=" hello"
+>>> print ("frist character=",text[0])
+frist character=  
+>>> frist character=h
+SyntaxError: invalid syntax
+>>> 
+>>> text=" hello"
+>>> print ("last character=",text[-1])
+last character= o
+>>> last character= o
+SyntaxError: invalid syntax
+>>> 
+>>> number=-5
+>>> if number>0:
+...     print("positiv number")
+... else
+SyntaxError: expected ':'
+>>> else:
+...     
+SyntaxError: invalid syntax
+>>> print ("nagative number")
+nagative number
+>>> a=2
+>>> b=9
+>>> c=3
+>>> print("sum=",a+b+c)
+sum= 14
+>>> name=input("enter your name:")
+enter your name:7
+>>> 
+>>> print ("hello",name)
+hello 7
