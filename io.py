@@ -1,0 +1,7 @@
+#print("hello world")
+#name=input("enter your name:")
+#print("hello" , name)
+#number=input("enter number:")
+#print("your number is", number)
+variables=input("enter variables:")
+print("your variables is:", variables)
